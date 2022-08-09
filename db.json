@@ -1,19 +1,28 @@
 {
-  "posts": [
+  "clientes": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "nombre": "Karlita",
+      "empresa": "SERPROEMCAM",
+      "email": "karlytamt@hotmail.com",
+      "telefono": "0984203983",
+      "notas": "Karlita está cotizando un toner",
+      "id": 3
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nombre": "Katrina",
+      "empresa": "SERPROEMCAM",
+      "email": "sn23@sn23.com",
+      "telefono": "09987121352",
+      "notas": "Seguimiento",
+      "id": 4
+    },
+    {
+      "nombre": "Hector Alberto",
+      "empresa": "SN23",
+      "email": "sn23@sn23.com",
+      "telefono": "0995184426",
+      "notas": "ser pro en 23 días",
+      "id": 5
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
