@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karlita",
+      "empresa": "SERPROEMCAM",
+      "email": "karlytamt@hotmail.com",
+      "telefono": "0984203983",
+      "notas": "Karlita está cotizando un toner",
+      "id": 3
+    },
+    {
+      "nombre": "Katrina",
+      "empresa": "SERPROEMCAM",
+      "email": "sn23@sn23.com",
+      "telefono": "09987121352",
+      "notas": "Seguimiento",
+      "id": 4
+    }
+  ]
+}
